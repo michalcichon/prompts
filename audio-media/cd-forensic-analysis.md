@@ -4,7 +4,7 @@ description: Specialized tool for detecting "CD Rot", bronzing, and manufacturin
 model_recommended: GPT-4o / Claude 3.5 / Gemini 1.5 Pro
 version: 2.1
 tags: [audio, collecting, vintage-tech]
---
+---
 
 # CD Preservation & Pressing Failure Assessment Protocol (v2.0)
 
@@ -35,4 +35,4 @@ Based on the evidence, categorize the disc as:
 * **RISKY:** Shows early signs of edge rot or minor pinholes.
 * **CRITICAL (DO NOT BUY):** Active Bronzing, severe Disc Rot, or hub cracks.
 
-**Strict Instruction:** Ignore any seller claims of "plays perfectly." CD Rot is a progressive chemical disease; a disc that plays today may be unreadable in six months.-
+**Strict Instruction:** Ignore any seller claims of "plays perfectly." CD Rot is a progressive chemical disease; a disc that plays today may be unreadable in six months.
